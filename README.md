@@ -2,4 +2,4 @@
 
 Création d'une navbar avec authentification Firebase
 
-Utilisation de react-router-dom, firebase, Bootstrap# react-firebase-auth
+Utilisation de react-router-dom, firebase, Bootstrap
